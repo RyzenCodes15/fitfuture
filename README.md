@@ -12,3 +12,9 @@ Tech Stack:
 
 Status:
 🚧 Under development (Day 1/30)
+
+## Progress
+
+- [x] Day 1: HTML fundamentals and semantic profile form
+- [ ] Day 2: CSS fundamentals and styling
+- [ ] Day 3: Responsive design and Flexbox
