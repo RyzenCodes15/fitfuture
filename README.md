@@ -1,6 +1,6 @@
 # FitFuture
 
-A full-stack fitness analytics and training planner.
+A full-stack fitness analytics and training planner
 
 Tech Stack:
 - React
