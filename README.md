@@ -11,7 +11,7 @@ Tech Stack:
 - JWT Authentication
 
 Status:
-🚧 Under development (Day 4/30)
+🚧 Under development (Day 5/30)
 
 ## Progress
 
